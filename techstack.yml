@@ -2,7 +2,7 @@ repo_name: ashleanichols/github-profile-readme-generator
 report_id: d521e2d98a6e0ddb53ace15ddaf004bf
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:14:06+00:00'
+timestamp: '2024-02-29T18:15:50+00:00'
 requested_by: rahuldkjain
 provider: github
 branch: master
@@ -106,7 +106,7 @@ tools:
   last_updated_by: rahuldkjain
   last_updated_on: 2020-07-15 13:15:37.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.0.5
   license: MIT
